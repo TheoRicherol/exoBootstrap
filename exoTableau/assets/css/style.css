@@ -1,10 +1,14 @@
 body{
     background-color: lightgray;
+    color: #0B1D3F;
 }
 
+th{
+    font-weight: 300;
+}
 
-.table{
-    color: #0B1D3F;
+.postion,.club,.points{
+    font-weight: bold;
 }
 
 img{
