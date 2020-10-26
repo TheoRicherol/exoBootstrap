@@ -11,6 +11,14 @@ th{
     font-weight: bold;
 }
 
+.postion{
+    width: 5%;
+}
+
+.number-columns{
+    width: 7%;;
+}
+
 .podium{
     background-color: #E6E6E6;
 }
